@@ -1,13 +1,25 @@
-# Sample Hardhat Project
+# DeFi Kingdom on Avalanche
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Description
 
-Try running some of the following tasks:
+This project provides a comprehensive framework for creating a decentralized application on the Avalanche network, leveraging EVM subnets and smart contracts to enable a wide range of functionalities for a DeFi Kingdom clone.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## Features
+
+### The Vault Contract
+The Vault contract is a simple mechanism for users to receive donations from one or more donors. 
+
+### The DefiKingdom Token
+This is the native token of our defiKingdom subnet.
+
+
+## Tools used 
+
+- Solidity
+- Remix
+- Metamask
+- Web Browser
+
+## Authors
+
+Jeffrey Owoloko
